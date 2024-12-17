@@ -1,4 +1,4 @@
-cd This is my First Git repo
+This is my First Git repo
 <br>
 Author-Srihari Akurathi
 
